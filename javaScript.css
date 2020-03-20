@@ -1,0 +1,50 @@
+body{
+  
+    background-image: url("https://restaurantengine.com/wp-content/uploads/2015/05/startup-restaurants-typically-overspend.jpg");
+    background-size: cover;
+    color : white;
+    font-size : 18px;
+    
+}
+
+ input[type=text],select{
+  width: 20%;
+  padding: 4px 8px;
+  margin: 6px 0px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin-top : 8px;
+ font-size : 20px;
+  font-family : calibri;
+    }
+
+    input[type=submit]{
+        width: 10%;
+        padding: 8px 12px;
+        margin: 8px 0;
+        background-color :green;
+        color: white;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-sizing: border-box;
+        cursor : pointer;
+
+        font-family : calibri;
+    }
+    input[type=submit]:hover {
+        background-color: rgb(3, 46, 3);
+      }
+
+
+     
+      .min{
+          width : 120px;
+      }
+
+      .middle{
+       font-size : 50px;
+       float :right;
+       color : gray;
+     
+      }
